@@ -155,7 +155,7 @@ Distributed under the **MIT License**—see `LICENSE` file for details.
 - **Issues:** Use the [GitHub Issues](https://github.com/puli-pro/Campus_backend/issues) page for bug reports or feature requests
 - **Email**: [pulipavan696@gmail.com](mailto:pulipavan696@gmail.com)
 - **LinkedIn**: [Solige Pullaiah](https://www.linkedin.com/in/solige-pullaiah-478462270/)
-- **Live Demo:** See `campus-backend-mocha.vercel.app` (if available/active)
+  
 
 ## Acknowledgements
 
